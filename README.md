@@ -6,7 +6,7 @@ Computer Programming Technology Instructor (Virtual/not on Campus) at Texas Stat
 
 Educator/Retired Senior Information Technology Specialist: I am an Instructor for aspiring Computer Programmers. I have decades of real world Information Technology (Hardware/Software) and Programming experience.
 
-Skills: C# / VB / C++/ Java/ Python/ HTML
+Skills: C# / VB / C++/ Java/ Python/ HTML / SQL
 
 - 🔭 I’m currently working on Transitioning to PBE 
 - 🌱 I’m currently learning Everything 
