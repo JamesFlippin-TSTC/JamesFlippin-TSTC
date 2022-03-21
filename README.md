@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is James Flippin
 #### Instructor - Computer Programming Technology
-![Instructor - Computer Programming Technology](https://github.com/JamesFlippin/JamesFlippin.github.io/blob/main/images/TSTCLogoSmall.PNG)
+![Instructor - Computer Programming Technology](https://github.com/JamesFlippin/JamesFlippin.github.io/blob/main/images/TSTCLogoSmall.png)
 
 Computer Programming Technology Instructor (Virtual/not on Campus) at Texas State Technical College in Waco, Texas
 
