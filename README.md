@@ -1,4 +1,4 @@
-### Hi there 👋, My name is James Flippin
+### Hi there 👋, my name is James Flippin
 #### Instructor - Computer Programming Technology
 ![Instructor - Computer Programming Technology](https://github.com/JamesFlippin/JamesFlippin.github.io/blob/main/images/MeTeaching.PNG)
 
