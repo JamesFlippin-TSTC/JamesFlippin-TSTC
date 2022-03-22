@@ -41,7 +41,7 @@
 
 - **Hardware Skills:** Hardware maintenance and trouble shooting, Network trouble maintenance and shooting, VOIP maintenance and trouble shooting, PC maintenance and trouble shooting, PC from scratch build, Network and non-networked printer maintenance and trouble shooting, etc.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFlippin&theme=synthwave)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFlippin&theme=synthwave)
 
 
 - 🔭 I’m currently working on transitioning to Performance Based Education (PBE)
