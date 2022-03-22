@@ -27,8 +27,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JamesFlippin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jamesflippin.github.io/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesFlippin&show_icons=true&theme=onedark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesFlippin&show_icons=true&count_private=true&theme=gruvbox)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesFlippin&show_icons=true&theme=synthwave)
 
 ![GitHub metrics](https://metrics.lecoq.io/JamesFlippin)  
 
