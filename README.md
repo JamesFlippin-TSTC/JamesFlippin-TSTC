@@ -1,5 +1,5 @@
 [<img src='https://github.com/JamesFlippin/JamesFlippin/blob/main/Me%20Teaching_Small.png' alt='Me Teaching In Person @ TSTC'>]
-### Hi there 👋, my name is James Flippin
+# Hi there 👋, my name is James Flippin
 #### A little about me:
 - **Educator** - Computer Programming Technology Instructor at Texas State Technical College in Waco, Texas
  I am an Instructor for aspiring Computer Programmers. I have decades of real world Information Technology (Hardware/Software) and Programming experience.
@@ -27,6 +27,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JamesFlippin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jamesflippin.github.io/)  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesFlippin&show_icons=true&theme=onedark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesFlippin&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/JamesFlippin)  
