@@ -7,8 +7,11 @@
 - Veteran - Crew Chief, C-5 Galaxy, Flightline Aircraft Mechanic, E-5, Staff Sergeant
  
 **Programming Skills:** C# / VB / C++ / Java/ Python/ HTML / SQL
+
 **Certifications:** Microsoft Certified System Administrator Server 2003, CompTIA Security+
+
 **Operating System Skills:** Windows OS, Windows Server OS, Linux OS, DOS
+
 **Hardware Skills:** Hardware maintenance and trouble shooting, Network trouble maintenance and shooting, VOIP maintenance and trouble shooting, PC maintenance and trouble shooting, PC from scratch build, Network and non-networked printer maintenance and trouble shooting, etc.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFlippin)](https://github.com/anuraghazra/github-readme-stats)
