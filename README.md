@@ -31,14 +31,14 @@
 
 ## Hi there 👋, my name is James Flippin
 
-#### A little about me:
+### A little about me:
 
 - **Educator** - Computer Programming Technology Instructor at Texas State Technical College in Waco, Texas
  I am an Instructor for aspiring Computer Programmers. I have decades of real world Information Technology (Hardware/Software) and Programming experience.
 
 - **Senior Information Technology Specialist (Retired)** - Senior System Administrator, Senior Network Administrator, System Security Officer, Programmer, VOIP Administrator, Exchange Administrator, SQL Server Administrator, SCCM Administrator, Field Chief Information Officer (Acting), National Project Control Board member, Disaster Recovery Team Leader, Virus Incident Resonse Team (VIRT) Lead, Senior Webmaster (Internet and Intranet), etc.
 
-- Veteran - <img width='25' height='25' src='https://github.com/JamesFlippin/JamesFlippin/blob/main/air-force-logo.png' alt='U.S. Air Force logo'> United States Air Force/Reserves <img width='25' height='25' src='https://github.com/JamesFlippin/JamesFlippin/blob/main/air-force-logo.png' alt='U.S. Air Force logo'> - Crew Chief Lockheed C-5 Galaxy, Flightline Aircraft Mechanic, E-5, Staff Sergeant
+- **Veteran** - <img width='25' height='25' src='https://github.com/JamesFlippin/JamesFlippin/blob/main/air-force-logo.png' alt='U.S. Air Force logo'> United States Air Force/Reserves <img width='25' height='25' src='https://github.com/JamesFlippin/JamesFlippin/blob/main/air-force-logo.png' alt='U.S. Air Force logo'> - Crew Chief Lockheed C-5 Galaxy, Flightline Aircraft Mechanic, E-5, Staff Sergeant
 
 - **Certifications:** Microsoft Certified System Administrator Server 2003, CompTIA Security+
 
@@ -49,7 +49,6 @@
 - **Hardware Skills:** Hardware maintenance and trouble shooting, Network trouble maintenance and shooting, VOIP maintenance and trouble shooting, PC maintenance and trouble shooting, PC from scratch build, Network and non-networked printer maintenance and trouble shooting, etc.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFlippin&theme=synthwave)
-
 
 - 🔭 I’m currently working on transitioning to Performance Based Education (PBE)
 - 🌱 I’m currently learning everything I can (Xamarin, Backpacking/camping skills, etc.)
