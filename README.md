@@ -31,6 +31,8 @@
 
 ## Hi there 👋, my name is James Flippin
 
+My GitHub Pages site: https://jamesflippin.github.io/
+
 ### A little about me:
 
 - **Educator** - Computer Programming Technology Instructor at Texas State Technical College in Waco, Texas
