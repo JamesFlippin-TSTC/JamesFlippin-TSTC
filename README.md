@@ -28,7 +28,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
-<img src='https://github.com/JamesFlippin/Me_Teaching_Small.png' alt='Me Teaching In Person @ TSTC'>
+<img src='https://github.com/JamesFlippin-tstc/Me_Teaching_Small.png' alt='Me Teaching In Person @ TSTC'>
 
 ## Hi there 👋, my name is James Flippin
 
