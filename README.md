@@ -32,7 +32,7 @@
 
 ## Hi there 👋, my name is James Flippin
 
-## My GitHub Pages site: https://jamesflippin.github.io/
+## My GitHub Pages site: https://jamesflippin-tstc.github.io/
 
 ### A little about me:
 
