@@ -51,7 +51,7 @@
 
 - **Hardware Skills:** Hardware maintenance and trouble shooting, Network trouble maintenance and shooting, VOIP maintenance and trouble shooting, PC maintenance and trouble shooting, PC from scratch build, Network and non-networked printer maintenance and trouble shooting, etc.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFlippin&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFlippin-tstc&theme=synthwave)
 
 - 🔭 I’m currently working on transitioning to Performance Based Education (PBE)
 - 🌱 I’m currently learning everything I can (Xamarin, Backpacking/camping skills, etc.)
@@ -61,12 +61,12 @@
 - 📫 How to reach me: james.flippin@tstc.edu 
 - ⚡ Fun fact: I like camping, hiking and backpacking 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JamesFlippin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jamesflippin.github.io/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JamesFlippin-tstc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jamesflippin-tstc.github.io/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesFlippin&show_icons=true&theme=synthwave)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesFlippin-tstc&show_icons=true&theme=synthwave)
 
-![GitHub metrics](https://metrics.lecoq.io/JamesFlippin)  
+![GitHub metrics](https://metrics.lecoq.io/JamesFlippin-tstc)  
 
-![Profile views](https://gpvc.arturio.dev/JamesFlippin)  
+![Profile views](https://gpvc.arturio.dev/JamesFlippin-tstc)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JamesFlippin)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JamesFlippin-tstc)](https://github.com/ryo-ma/github-profile-trophy)
