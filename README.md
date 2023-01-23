@@ -30,8 +30,6 @@
 
 <img src='https://github.com/JamesFlippin-TSTC/JamesFlippin-TSTC/blob/main/Me_Teaching_Small.png' alt='Me Teaching In Person @ TSTC'> 
 
-### Business eCard:
-<img src='https://github.com/JamesFlippin-TSTC/JamesFlippin-TSTC/blob/main/Business-Card_James.gif' alt='eBusiness Card'>
 ## Hi there 👋, my name is James Flippin
 
 ## My GitHub Pages site: https://jamesflippin-tstc.github.io/
@@ -72,3 +70,6 @@
 ![Profile views](https://gpvc.arturio.dev/JamesFlippin-tstc)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JamesFlippin-tstc)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Business eCard:
+<img src='https://github.com/JamesFlippin-TSTC/JamesFlippin-TSTC/blob/main/Business-Card_James.gif' alt='eBusiness Card'>
