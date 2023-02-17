@@ -72,4 +72,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=JamesFlippin-tstc)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Business eCard:
-<img src='https://github.com/JamesFlippin-TSTC/JamesFlippin-TSTC/blob/main/eContact-Card_James_1080p_AdobeExpress_Medium.gif' alt='eBusiness Card'>
+<img src='https://github.com/JamesFlippin-TSTC/JamesFlippin-TSTC/blob/main/eContact-Card_James_1080p_AdobeExpress_Medium.gif' alt='eBusiness Card'>(https://github.com/JamesFlippin-TSTC/JamesFlippin-TSTC/blob/main/eContact-Card_James_1080p_AdobeExpress_Large.gif)
